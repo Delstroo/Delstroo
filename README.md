@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Delstun
 
 ##
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87548497" target="_blank" style="display: block" align="center">
@@ -7,14 +7,12 @@
     <img alt="Dashboard stats of @Delstroo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87548497&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Icon" width="100" height="100" />
+</p>
+<h1 align="center">Swift</h1>
+
