@@ -11,7 +11,7 @@
 
 ## Skills
 
-<p align="center">
+<p align="leading">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Icon" width="100" height="100" />
 </p>
 <h1 align="center">Swift</h1>
