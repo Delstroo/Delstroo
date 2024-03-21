@@ -10,4 +10,6 @@
 
 
 ## Skills
+<ul>
   <li><a href="https://developer.apple.com/swift/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png"/></a> Swift</li>
+</ul>
