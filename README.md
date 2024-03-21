@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Delstroo/Delstroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87548497" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87548497&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Delstroo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87548497&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+##
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
