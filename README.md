@@ -11,10 +11,10 @@
 
 <h2>My Skills</h2>
 <ul>
-  <li><a href="https://developer.apple.com/swift/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_logo_icon_168770.png" width="20" height="20" /></a> Swift</li>
-  <li><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" width="20" height="20" /></a> Objective-C</li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" width="20" height="20" /></a> HTML</li>
-  <li><a href="https://devdocs.io/css/"><img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="20" height="20" /></a> CSS</li>
-  <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png" width="20" height="20" /></a> Python</li>
+  <li><a href="https://developer.apple.com/swift/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_logo_icon_168770.png" width="30" height="30" /></a> Swift</li>
+  <li><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" width="30" height="30" /></a> Objective-C</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" width="30" height="30" /></a> HTML</li>
+  <li><a href="https://devdocs.io/css/"><img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="30" height="30" /></a> CSS</li>
+  <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png" width="30" height="30" /></a> Python</li>
 </ul>
 
