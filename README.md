@@ -10,7 +10,7 @@
 
 
 ## Skills
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Icon" width="100" height="100" />
-  <h1 style="margin-left: 10px;">Your Title</h1>
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Icon" width="100" height="100" style="float: left; margin-right: 10px;" />
+  <h2 style="display: inline-block;">Swift</h2>
 </div>
