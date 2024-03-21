@@ -10,9 +10,7 @@
 
 
 ## Skills
-
-<p align="leading">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Icon" width="100" height="100" />
-</p>
-<h1 align="center">Swift</h1>
-
+  <h1 style="margin-left: 10px;">Your Title</h1>
+</div>
