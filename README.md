@@ -11,17 +11,17 @@
 
 <h2>My Skills</h2>
 <ul>
-  <li><a href="https://developer.apple.com/swift/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_logo_icon_168770.png" width="27" height="30" /></a> Swift</li>
-  <li><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" width="30" height="30" /></a> Objective-C</li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" width="30" height="30" /></a> HTML</li>
-  <li><a href="https://devdocs.io/css/"><img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="30" height="30" /></a> CSS</li>
-  <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png" width="30" height="30" /></a> Python</li>
+  <li><a href="https://developer.apple.com/swift/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_logo_icon_168770.png" width="18" height="20" /></a> Swift</li>
+  <li><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" width="20" height="20" /></a> Objective-C</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" width="20" height="20" /></a> HTML</li>
+  <li><a href="https://devdocs.io/css/"><img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="20" height="20" /></a> CSS</li>
+  <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png" width="20" height="20" /></a> Python</li>
 </ul>
 
 <h2>My Certifications</h2>
     <ul>
   <li style="display:flex;align-items:center">
-    <a href="https://www.credly.com/badges/28cca3bd-befe-4392-bdfa-e61301391b10?source=linked_in_profile">
+    <a href="https://www.credly.com/badges/28cca3bd-befe-4392-bdfa-e61201391b10?source=linked_in_profile">
       <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="150" height="150" />
     </a>
   </li>
