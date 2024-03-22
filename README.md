@@ -18,3 +18,16 @@
   <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png" width="30" height="30" /></a> Python</li>
 </ul>
 
+<h2>My Certifications</h2>
+    <ul>
+  <li style="display:flex;align-items:center">
+    <a href="If you have a link to accredible or any other">
+      <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png"/>
+    </a>
+  </li>
+</ul>
+
+<h2>Get In Touch</h2>
+ <div>
+  <a href="https://www.linkedin.com/in/delstun-mccray/" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+</div>
