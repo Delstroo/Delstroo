@@ -29,5 +29,5 @@
 
 <h2>Get In Touch</h2>
  <div>
-  <a href="https://www.linkedin.com/in/delstun-mccray/" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/delstun-mccray/" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" height="20" /></a>
 </div>
