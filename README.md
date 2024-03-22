@@ -21,8 +21,8 @@
 <h2>My Certifications</h2>
     <ul>
   <li style="display:flex;align-items:center">
-    <a href="If you have a link to accredible or any other">
-      <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="120" height="120" />
+    <a href="https://www.credly.com/badges/28cca3bd-befe-4392-bdfa-e61301391b10?source=linked_in_profile">
+      <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="150" height="150" />
     </a>
   </li>
 </ul>
