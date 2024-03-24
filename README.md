@@ -1,4 +1,4 @@
-### Hi I'm Delstun
+### Hi!
 
 ##
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87548497" target="_blank" style="display: block" align="center">
