@@ -9,7 +9,7 @@
 </a>
 
 
-<h2>My Skills</h2>
+<h2>Skills</h2>
 <ul>
   <li><a href="https://developer.apple.com/swift/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_logo_icon_168770.png" width="18" height="20" /></a> Swift</li>
   <li><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" width="20" height="20" /></a> Objective-C</li>
