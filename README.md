@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+# Hello, my name is Delstun!
 
 ##
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87548497" target="_blank" style="display: block" align="center">
