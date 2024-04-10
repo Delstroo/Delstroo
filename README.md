@@ -1,5 +1,5 @@
 # Hello, my name is Delstun!
-## Here is where you view my [Portfolio!(https://delstroo.github.io/portfolio-site/)]
+## Here is where you view my [Portfolio!](https://delstroo.github.io/portfolio-site/)
 
 ##
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87548497" target="_blank" style="display: block" align="center">
