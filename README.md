@@ -1,5 +1,4 @@
 # Hello, my name is Delstun!
-## Here is my [Portfolio!](https://delstroo.github.io/portfolio-site/)
 
 ##
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87548497" target="_blank" style="display: block" align="center">
@@ -31,4 +30,5 @@
 <h2>Get In Touch</h2>
  <div>
   <a href="https://www.linkedin.com/in/delstun-mccray/" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" /></a>
+   ## Here is my [Portfolio!](https://delstroo.github.io/portfolio-site/)
 </div>
