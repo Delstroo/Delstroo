@@ -1,5 +1,4 @@
 # Hello, my name is Delstun!
-
 Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
 
 ## Here is my [Portfolio](https://delstroo.github.io/portfolio-site/)!
