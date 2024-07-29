@@ -27,5 +27,5 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
 
 <h2>Get In Touch</h2>
  <div>
-  <a href="https://www.linkedin.com/in/delstun-mccray/" style="display:inline-block; margin-right:25px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="28" height="28" /></a>
+  <a href="https://www.linkedin.com/in/delstun-mccray/" style="display:inline-block; margin-right:25px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="45" height="45" /></a>
 </div>
