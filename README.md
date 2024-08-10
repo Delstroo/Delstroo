@@ -6,7 +6,7 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
 ##
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87548497" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87548497&image_size=auto&color_scheme=dark" width="825" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87548497&image_size=auto&color_scheme=dark" width="800" height="auto">
     <img alt="Dashboard stats of @Delstroo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87548497&image_size=auto&color_scheme=light" width="780" height="auto">
   </picture>
 </a>
