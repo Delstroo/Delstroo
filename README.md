@@ -26,6 +26,10 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
       <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="65" height="65" />
     </a>
 
+ <a href="">
+      <img src="https://images.credly.com/images/d35263a3-4174-4cab-91ae-1116ad73edc8/CompTIA_ITFund.png" width="65" height="65" />
+    </a>
+
 <h2>Get In Touch</h2>
  <div>
   <a href="https://www.linkedin.com/in/delstun-mccray/" style="display:inline-block; margin-right:25px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="45" height="45" /></a>
