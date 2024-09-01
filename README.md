@@ -26,9 +26,10 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
       <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="65" height="65" />
     </a>
 
- <a href="">
-      <img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" width="65" height="65" />
-    </a>
+<a href="">
+  <img src="https://images.credly.com/images/d35263a3-4174-4cab-91ae-1116ad73edc8/CompTIA_ITFund.png" width="65" height="65" style="border-radius: 50%; object-fit: cover;" />
+</a>
+
 
 <h2>Get In Touch</h2>
  <div>
