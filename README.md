@@ -27,7 +27,7 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
     </a>
 
 <a href="">
-  <img src="https://images.credly.com/images/d35263a3-4174-4cab-91ae-1116ad73edc8/CompTIA_ITFund.png" width="65" height="65" style="border-radius: 50%;" />
+  <img src="https://images.credly.com/images/d35263a3-4174-4cab-91ae-1116ad73edc8/CompTIA_ITFund.png" width="65" height="65" />
 </a>
 
 
