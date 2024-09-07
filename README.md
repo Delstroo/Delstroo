@@ -27,7 +27,7 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
     </a>
 
 <a href="https://www.credly.com/badges/a49052dc-f7c7-40d3-86e3-a373ea717591/public_url">
-  <img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" width="95" height="95" />
+  <img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" width="92" height="92" />
 </a>
 
 
