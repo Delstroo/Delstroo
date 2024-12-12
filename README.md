@@ -28,6 +28,9 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
 
 <a href="https://www.credly.com/badges/a49052dc-f7c7-40d3-86e3-a373ea717591/public_url">
   <img src="https://images.credly.com/size/340x340/images/5e719e46-faf2-40c9-ad49-3b11e6e6cb34/image.png" width="80" height="80" />
+
+  <a href="https://www.umw.edu/cps/wp-content/uploads/sites/48/2022/07/aplus-logo.png">
+  <img src="https://images.credly.com/size/340x340/images/5e719e46-faf2-40c9-ad49-3b11e6e6cb34/image.png" width="80" height="80" />
 </a>
 
 
