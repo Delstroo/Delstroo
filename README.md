@@ -23,17 +23,16 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
 
 <h2>My Certifications</h2>
 <a href="https://www.credly.com/badges/28cca3bd-befe-4392-bdfa-e61301391b10/public_url">
-  <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="80" height="80" alt="Badge 1" />
+  <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="80" height="80" alt="Certification 1" />
 </a>
 
 <a href="https://www.credly.com/badges/a49052dc-f7c7-40d3-86e3-a373ea717591/public_url">
-  <img src="https://images.credly.com/size/340x340/images/5e719e46-faf2-40c9-ad49-3b11e6e6cb34/image.png" width="80" height="80" alt="Badge 2" />
+  <img src="https://images.credly.com/size/340x340/images/5e719e46-faf2-40c9-ad49-3b11e6e6cb34/image.png" width="80" height="80" alt="Certification 2" />
 </a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="76ae08ac-d871-4871-bc12-3041f2f780bb" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/76ae08ac-d871-4871-bc12-3041f2f780bb/public_url">
+  <img src="https://images.credly.com/size/340x340/images/placeholder-for-badge.png" width="80" height="80" alt="Certification 3" />
 </a>
-
 
 <h2>Get In Touch</h2>
  <div>
