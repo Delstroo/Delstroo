@@ -31,7 +31,7 @@ Previously at [Midwestern Interactive LLC](https://www.buildmidwestern.com/)
 </a>
 
 <a href="https://www.credly.com/badges/76ae08ac-d871-4871-bc12-3041f2f780bb/public_url">
-  <img src="https://images.credly.com/size/340x340/images/placeholder-for-badge.png" width="80" height="80" alt="Certification 3" />
+  <img src="https://images.credly.com/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" width="80" height="80" alt="Certification 3" />
 </a>
 
 <h2>Get In Touch</h2>
