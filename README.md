@@ -26,7 +26,7 @@ Previously at [Midwestern Interactive LLC.](https://www.buildmidwestern.com/)
   <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="80" height="80" alt="Certification 1" />
 </a>
 
-<a href="https://www.credly.com/badges/a49052dc-f7c7-40d3-86e3-a373ea717591/public_url">
+<a href="https://images.credly.com/size/340x340/images/13478966-0bdb-4f78-ae2e-27d61a9d1b4d/blob">
   <img src="https://www.ciat.edu/wp-content/uploads/2020/12/comptia-itf-certification.png" width="82" height="82" alt="Certification 2" />
 </a>
 
