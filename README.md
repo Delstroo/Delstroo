@@ -22,7 +22,7 @@ Previously at [Midwestern Interactive LLC.](https://www.buildmidwestern.com/)
 </ul>
 
 <h2>My Certifications</h2>
-<a href="https://i.imgur.com/mNVsF53.png">
+<a href="https://www.credly.com/badges/28cca3bd-befe-4392-bdfa-e61301391b10">
   <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="80" height="80" alt="Certification 1" />
 </a>
 
