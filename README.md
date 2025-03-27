@@ -23,27 +23,27 @@ Previously at [Midwestern Interactive LLC.](https://www.buildmidwestern.com/)
 
 <h2>My Certifications</h2>
 <a href="https://www.credly.com/badges/28cca3bd-befe-4392-bdfa-e61301391b10">
-  <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="80" height="80" alt="Certification 1" />
+  <img src="https://images.credly.com/size/340x340/images/cc159ea0-9cfc-4a6a-87a2-d5db4000e9b9/Artboard_Copy_19.png" width="80" height="80" alt="iOS" />
 </a>
 
 <a href="https://www.credly.com/badges/a49052dc-f7c7-40d3-86e3-a373ea717591">
-  <img src="https://i.imgur.com/A4cTthK.png" width="82" height="82" alt="Certification 2" />
+  <img src="https://i.imgur.com/A4cTthK.png" width="82" height="82" alt="ITF" />
 </a>
 
 <a href="https://www.credly.com/badges/320901d8-6e29-415e-b6dc-26ca763a95f7">
-  <img src="https://i.imgur.com/OqdwYfO.png" width="80" height="80" alt="Certification 6" />
+  <img src="https://i.imgur.com/OqdwYfO.png" width="80" height="80" alt="CCNA" />
 </a>
 
 <a href="https://www.credly.com/badges/dd49445c-3c32-408b-bc19-5848b536c92a">
-  <img src="https://i.imgur.com/OaDF0pl.png" width="80" height="80" alt="Certification 3" />
+  <img src="https://i.imgur.com/Piuyaot.png" width="80" height="80" alt="A+" />
 </a>
 
 <a href="https://www.credly.com/badges/fc4194a8-7e62-43ea-8c84-2b47fc18cd1e">
-  <img src="https://i.imgur.com/MgOIPcW.png" width="80" height="80" alt="Certification 4" />
+  <img src="https://i.imgur.com/MgOIPcW.png" width="80" height="80" alt="Net+" />
 </a>
 
 <a href="https://www.credly.com/badges/3a084e36-c436-4240-951a-2db7711d76f7">
-  <img src="https://i.imgur.com/w4dPgVU.png" width="80" height="80" alt="Certification 5" />
+  <img src="https://i.imgur.com/w4dPgVU.png" width="80" height="80" alt="Sec+" />
 </a>
 
 <h2>Get In Touch</h2>
