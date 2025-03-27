@@ -30,8 +30,20 @@ Previously at [Midwestern Interactive LLC.](https://www.buildmidwestern.com/)
   <img src="https://i.imgur.com/A4cTthK.png" width="82" height="82" alt="Certification 2" />
 </a>
 
-<a href="https://i.imgur.com/enDrvsG.png">
+<a href="https://www.credly.com/badges/320901d8-6e29-415e-b6dc-26ca763a95f7">
+  <img src="https://i.imgur.com/OqdwYfO.png" width="80" height="80" alt="Certification 6" />
+</a>
+
+<a href="https://www.credly.com/badges/dd49445c-3c32-408b-bc19-5848b536c92a">
   <img src="https://i.imgur.com/OaDF0pl.png" width="80" height="80" alt="Certification 3" />
+</a>
+
+<a href="https://www.credly.com/badges/fc4194a8-7e62-43ea-8c84-2b47fc18cd1e">
+  <img src="https://i.imgur.com/MgOIPcW.png" width="80" height="80" alt="Certification 4" />
+</a>
+
+<a href="https://www.credly.com/badges/3a084e36-c436-4240-951a-2db7711d76f7">
+  <img src="https://i.imgur.com/w4dPgVU.png" width="80" height="80" alt="Certification 5" />
 </a>
 
 <h2>Get In Touch</h2>
