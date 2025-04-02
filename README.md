@@ -35,7 +35,7 @@ Here is my [Portfolio!](https://delstroo.github.io/portfolio-site/)
 </a>
 
 <a href="https://www.credly.com/badges/dd49445c-3c32-408b-bc19-5848b536c92a">
-  <img src="https://i.imgur.com/Piuyaot.png" width="80" height="80" alt="A+" />
+  <img src="https://i.imgur.com/Piuyaot.png" width="80" height="80" alt="A" />
 </a>
 
 <a href="https://www.credly.com/badges/fc4194a8-7e62-43ea-8c84-2b47fc18cd1e">
