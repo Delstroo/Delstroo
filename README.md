@@ -1,5 +1,5 @@
 # Hello, I'm Delstun!
-Previously at [Midwestern Interactive LLC.](https://www.buildmidwestern.com/)
+Currently at JBESystems
 
 Here is my [Portfolio!](https://delstroo.github.io/portfolio-site/)
 
