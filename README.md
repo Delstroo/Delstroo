@@ -19,6 +19,7 @@ Here is my [Portfolio!](https://delstroo.github.io/portfolio-site/)
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" width="25" height="25" /></a> HTML</li>
   <li><a href="https://devdocs.io/css/"><img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="25" height="25" /></a> CSS</li>
   <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png" width="25" height="25" /></a> Python</li>
+  <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png" width="25" height="25" /></a> Learning PowerShell</li>
 </ul>
 
 <h2>My Certifications</h2>
