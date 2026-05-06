@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Current%20Role-JBESystems-blue?style=flat-square">
-  <a href="https://delstroo.github.io/portfolio-site/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://dmccray-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/delstun-mccray/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
